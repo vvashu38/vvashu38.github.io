@@ -1,0 +1,142 @@
+#a {
+  font-size: 70px;
+}
+
+#p-top {
+  font-size: large;
+  font-family: Allerta, sans-serif;
+  padding-top: 18px;
+}
+
+#p-top-1 {
+  font-size: large;
+  font-family: Allerta, sans-serif;
+  padding-top: 18px;
+}
+
+#p-top-2 {
+  font-size: large;
+  font-family: Allerta, sans-serif;
+  padding-top: 18px;
+}
+
+#topp {
+  width: 791px;
+}
+
+.btn.btn-primary.btn-xl.js-scroll-trigger {
+}
+
+#more {
+  width: 189px;
+  height: 62px;
+}
+
+#down {
+  background-color: transparent;
+  color: transparent;
+  width: 40px;
+  opacity: 1;
+}
+
+.btn.btn-link.btn-block.arrow-button {
+  color: rgb(255,255,255);
+}
+
+.col.hacker {
+  background-image: url(../../assets/img/programmer.png);
+  background-repeat: no-repeat;
+  padding: -9px;
+  max-width: 100%;
+  padding-bottom: 5px;
+  padding-top: 58px;
+  height: 151px;
+  color: rgb(12,133,255);
+}
+
+#aboutme {
+  margin: auto;
+}
+
+.col.photo {
+  background-image: url(../../assets/img/WhatsApp%20Image%202020-06-03%20at%207.28.01%20PM.jpeg);
+}
+
+#photo {
+  background-image: url(../../assets/img/WhatsApp%20Image%202020-06-03%20at%207.28.01%20PM.jpeg);
+}
+
+img, svg {
+  width: 43%;
+  margin-top: 29px;
+  margin-right: 122px;
+  margin-left: 86px;
+}
+
+#abm {
+  width: 277px;
+  margin-left: 96px;
+}
+
+#plll {
+  margin-top: 30px;
+}
+
+p {
+}
+
+#paragraph {
+  font-size: larger;
+  margin-top: 29px;
+  width: 463px;
+  height: 200px;
+}
+
+.container.text-center {
+  width: 904px;
+}
+
+#resume {
+  color: rgb(147,147,147);
+}
+
+#head {
+}
+
+#head {
+  font-size: 52px;
+}
+
+#myBtn {
+  margin-top: 12px;
+}
+
+#foot {
+  padding-top: 36px;
+  padding-bottom: 6px;
+}
+
+#left {
+}
+
+#btn {
+  padding: 2px;
+  margin: 0px;
+  width: 66px;
+  font-size: 33px;
+  color: rgb(255,255,255);
+  filter: brightness(200%) contrast(200%);
+}
+
+#about1::before {
+  display: block;
+  content: " ";
+  margin-top: -65px;
+  height: 65px;
+  visibility: hidden;
+}
+
+.portfolio-item {
+  height: 162.471px;
+}
+
