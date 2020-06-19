@@ -140,9 +140,3 @@ p {
   height: 162.471px;
 }
 
-@media (min-width: 768px) {
-  #about {
-    height: 100vh;
-  }
-}
-
